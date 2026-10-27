@@ -43,7 +43,6 @@ The main objectives of this course are:
 
 ### Development Environment
 
-- Google Colab
 - Jupyter Notebook
 - GitHub
 
